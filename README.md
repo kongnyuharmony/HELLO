@@ -1,2 +1,4 @@
 # HELLO
-hello world
+hello 
+DISPLAY HELLO TO THE USER
+BY USING GIT
